@@ -19,8 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "client": "npm start",
-    "server": "cd ../server && python app.py",
-    "server-first-time": "cd ../server && pip install -r requirements.txt && python app.py",
+    "server": "cd ../Server && python app.py",
+    "server-first-time": "cd ../Server && pip install -r requirements.txt && python app.py",
     "start-project": "concurrently \"npm run server\" \"npm run client\"",
     "first-time": "concurrently \"npm run server-first-time\" \"npm run client\""
   },
