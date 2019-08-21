@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+body {
+    background-color: #263c4a;
+    background-image: linear-gradient(#15202a, #263c4a);
+    font-family: 'Raleway', serif;
+}
+.Card {
+    width: 45em;
+    margin: 1em 5em;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Card-title {
+    background-color: #285c7e;
+    padding: 0.5em;
+    height: auto;
+    color: white;
+}

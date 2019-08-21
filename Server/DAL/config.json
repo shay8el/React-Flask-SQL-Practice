@@ -1,0 +1,7 @@
+{
+  "base_dir": "DAL",
+  "DB_dir": "data",
+  "DB_name": "elections.db",
+  "schema_path": "schema.sql",
+  "mock_candidates_path": "insert_mock.sql"
+}
