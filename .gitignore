@@ -90,7 +90,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-Server/election
+Server/election/
 
 # Spyder project settings
 .spyderproject
